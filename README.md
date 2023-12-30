@@ -3,7 +3,7 @@
 
 Track the fascinating journey from any Wikipedia page to the ultimate destination - the "Philosophy" page.
 
-![Wikipedia Philosophy Tracker](https://firebasestorage.googleapis.com/v0/b/studymate-c44e8.appspot.com/o/wikipedia-fall-fundraiser-a-virtual-gathering_processed_5320bc570f2587f299142f06c298de3d697a5912145a454a31c310378291a9c7_background_image.png?alt=media&token=9e12dd93-0083-46fa-b908-6a4d67a93784](https://upload.wikimedia.org/wikipedia/commons/4/4e/Wiki-black.png)
+![Wikipedia Philosophy Tracker](https://upload.wikimedia.org/wikipedia/commons/4/4e/Wiki-black.png)
 
 ## Overview
 
