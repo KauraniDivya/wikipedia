@@ -93,6 +93,6 @@ The application will be accessible at [http://localhost:3000](http://localhost:3
 
 Your Name - Divya Kaurani (https://www.linkedin.com/in/divyakaurani/)
 
-Project Link: [https://github.com/your-username/wikipedia-philosophy-tracker](https://github.com/KauraniDivya/wikipedia/)
+Project Link: (https://github.com/KauraniDivya/wikipedia/)
 
 
